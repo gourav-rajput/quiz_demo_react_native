@@ -1,2 +1,2 @@
-# quiz_demo_react_native
-A Sample Quiz app built in react native 
+# quiz_demo_react_naive
+A Quiz Sample Application built in react native 

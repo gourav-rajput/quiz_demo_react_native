@@ -1,0 +1,112 @@
+[
+  {
+    "question" : "What exercise is good for Chest",
+    "options" : [
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/july/10-best-chest-exercises-for-building-muscle-v2-1-700xh.jpg",
+        "text" : "Barbell Bench Press"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/june/10-best-muscle-building-leg-exercises-v2-1-700xh.jpg",
+        "text" : "Squat"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/may/the-5-best-biceps-exercises-for-size-v2-1-700xh.jpg",
+        "text" : "Barbell Curl"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2015/november/the-10-best-muscle-building-triceps-exercises-graphics-skullcrusher-700xh.jpg",
+        "text" : "Skullcrusher"
+      }
+    ],
+    "correctAnswer" : "Barbell Bench Press"
+  },
+  {
+    "question" : "what exercise is good for Triceps",
+    "options" : [
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/june/10-best-muscle-building-leg-exercises-v2-1-700xh.jpg",
+        "text" : "Squat"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2015/november/the-10-best-muscle-building-triceps-exercises-graphics-skullcrusher-700xh.jpg",
+        "text" : "Skullcrusher"
+      },
+      {
+        "imageUrl" : "https://www.muscleandperformance.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_460/MTQ1MzY2OTYwNTkyMTM1NzM1/bent-over-barbell-row.webp",
+        "text" : "Wide-Grip Pull-Up"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/may/the-5-best-biceps-exercises-for-size-v2-1-700xh.jpg",
+        "text" : "Barbell Curl"
+      }
+    ],
+    "correctAnswer" : "Skullcrusher"
+  },
+  {
+    "question" : "What exercise is good for Biceps",
+    "options" : [
+      {
+        "imageUrl" : "https://www.muscleandperformance.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_460/MTQ1MzY2OTYwNTkyMTM1NzM1/bent-over-barbell-row.webp",
+        "text" : "Wide-Grip Pull-Up"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/june/10-best-muscle-building-leg-exercises-v2-1-700xh.jpg",
+        "text" : "Squat"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/may/the-5-best-biceps-exercises-for-size-v2-1-700xh.jpg",
+        "text" : "Barbell Curl"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/july/10-best-chest-exercises-for-building-muscle-v2-1-700xh.jpg",
+        "text" : "Barbell Bench Press"
+      }
+    ],
+    "correctAnswer" : "Barbell Curl"
+  },
+  {
+    "question" : "what exercise is good for Legs",
+    "options" : [
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/june/10-best-muscle-building-leg-exercises-v2-1-700xh.jpg",
+        "text" : "Squat"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/may/the-5-best-biceps-exercises-for-size-v2-1-700xh.jpg",
+        "text" : "Barbell Curl"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/july/10-best-chest-exercises-for-building-muscle-v2-1-700xh.jpg",
+        "text" : "Barbell Bench Press"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2015/november/the-10-best-muscle-building-triceps-exercises-graphics-weighted-parallel-dip-700xh.jpg",
+        "text" : "Weighted Parallel-Bar Dip"
+      }
+    ],
+    "correctAnswer" : "Squat"
+  },
+  {
+    "question" : "what exercise is good for Back",
+    "options" : [
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2015/november/the-10-best-muscle-building-triceps-exercises-graphics-overhead-dumbbell-extension-700xh.jpg",
+        "text" : "Dumbbell Extension"
+      },
+      {
+        "imageUrl" : "https://www.muscleandperformance.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_460/MTQ1MzY2OTYwNTkyMTM1NzM1/bent-over-barbell-row.webp",
+        "text" : "Wide-Grip Pull-Up"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/july/10-best-chest-exercises-for-building-muscle-v2-1-700xh.jpg",
+        "text" : "Barbell Bench Press"
+      },
+      {
+        "imageUrl" : "https://www.bodybuilding.com/images/2016/june/10-best-muscle-building-leg-exercises-v2-1-700xh.jpg",
+        "text" : "Squat"
+      }
+    ],
+    "correctAnswer" : "Wide-Grip Pull-Up"
+  },
+]
